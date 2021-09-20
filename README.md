@@ -9,30 +9,30 @@ The purpose of this project is to provide the complete information about differe
 # Modules of management
    **Admin** 
    <br>
-          &nbsp; Admin can create Package <br>
-          &nbsp; Manage packages(Create,Update,Delete) <br>
-          &nbsp; Manage Users <br>
-          &nbsp; Manage Inquiries <br>
-          &nbsp; Manage issues <br>
-          &nbsp; Manage Booking <br>
-          &nbsp; Manage Pages <br>
-          &nbsp; Change Password <br>
-          &nbsp; Admin Dashboard <br>
+          &emsp; Admin can create Package <br>
+          &emsp; Manage packages(Create,Update,Delete) <br>
+          &emsp; Manage Users <br>
+          &emsp; Manage Inquiries <br>
+          &emsp; Manage issues <br>
+          &emsp; Manage Booking <br>
+          &emsp; Manage Pages <br>
+          &emsp; Change Password <br>
+          &emsp; Admin Dashboard <br>
           <br>
    **Users**
    <br>
-          &nbsp; User can register yourself <br>
-          &nbsp; User can login with valid email and password <br>
-          &nbsp; Forgot Password(user Can recover own password) <br>
-          &nbsp; Tour Booking <br>
-          &nbsp; Manage Booking <br>
-          &nbsp; Generate Ticket(Regarding Complaint) <br>
-          &nbsp; Change Password <br>
+          &emsp; User can register yourself <br>
+          &emsp; User can login with valid email and password <br>
+          &emsp; Forgot Password(user Can recover own password) <br>
+          &emsp; Tour Booking <br>
+          &emsp; Manage Booking <br>
+          &emsp; Generate Ticket(Regarding Complaint) <br>
+          &emsp; Change Password <br>
           <br>
    **Guest**
    <br>
-          &nbsp; Visit the Website <br>
-          &nbsp; Guest user can enquiry <br>
+          &emsp; Visit the Website <br>
+          &emsp; Guest user can enquiry <br>
           <br>
           
 # Teck Stack for the Project (proposed)
